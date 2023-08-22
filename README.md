@@ -5,14 +5,14 @@ The corresponded code of the paper "Accurate identification of hemangioblastomas
 
 ## Folder architecture
 
-├─model (The configurement file forvarious run)
-│  ├─cls_2d 
-│  ├─cls_2d_angiocavernoma
-│  ├─cls_2d_glioma
-│  └─cls_2d_maoxing
-├─nets ( Network )
-├─scripts ( Code for model training)
-└─utils (Some useful utils)
+├─model (The configurement file forvarious run)  
+│  ├─cls_2d   
+│  ├─cls_2d_angiocavernoma  
+│  ├─cls_2d_glioma  
+│  └─cls_2d_maoxing  
+├─nets ( Network )  
+├─scripts ( Code for model training)  
+└─utils (Some useful utils)  
 
 ## How to run
 ```python
